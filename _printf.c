@@ -42,6 +42,7 @@ int _printf(const char *format, ...)
 		{
 			putchar('%');
 			putchar('K');
+			putchar('\n');
 			i++;
 		}
 		else
