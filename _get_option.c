@@ -12,7 +12,6 @@ int (*get_option(const char *format))(va_list)
 	print_f options[] = {
 		{"c", print_c},
 		{"s", print_s},
-		{"b", print_binary},
 		{"d", print_d},
 		{"i", print_i},
 		{NULL, NULL}
