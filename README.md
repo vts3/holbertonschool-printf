@@ -42,6 +42,10 @@ This is a Holberton School project, where we created our own "Printf" and implem
 * All your header files should be include guarded
 * Note that we will not provide the `_putchar` function for this project
 
+## Flowchart
+
+![IMG_1373](https://user-images.githubusercontent.com/107739146/195999732-ccc4998b-4e99-4a3d-bded-d00eed1174a6.jpg)
+
 ## Some examples
 
 ```C
